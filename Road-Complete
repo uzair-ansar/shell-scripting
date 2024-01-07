@@ -1,0 +1,132 @@
+Linux Shell Scripting Introduction:
+Introduction of Shell Programming
+· What is Bash Shell?
+· Types of Shell available in Linux
+· About Shell Scripting
+· Bash Shell Startup Scripts
+· User’s Home Directory - .bash_profile, .bashrc & .bash_logout
+· Shebang
+· Create a simple Shell Script
+· Setting up permissions on a script
+· Debug a Script
+
+The Shell Variables & Environment
+· Bash Variables
+· Environmental Variables
+· System Variables
+· Assign values to shell variables
+· Customize the bash shell environments
+· set, env & export command
+· Rules for naming the variable name
+· Simple Script using the echo command
+· Quoting
+· There are three Type of quoting
+· The double quote
+· The single quote
+· The Backslash
+· User's Input via Keyboard
+· Read Command
+· IFS
+· Practice Lab Session
+
+Arithmetic Operators
+· Performing Arithmetic Operations
+· Create an integer Variable
+· Create the Constants Variable
+· Path name expansion
+· Wildcards [*], ?, [..] etc
+· Create & use aliases
+· Practice Lab Sessions
+Industrial Project to Completely Automate the Pre-validation report
+Project: A Shell Script to collect the required information from a server
+· The Bash Color
+· Writing Color Text
+· Various Color Codes for Foreground & Background Text
+· Lab Session on Bash Color
+· Script to fetch the system information i.e system_details
+· Schedule the script via cron
+· Final Script to fetch the environment report with a single click
+· Lab Session
+
+Conditional Statements (Decision Making)
+· Overview of conditional execution
+· What is Condition?
+· Boolean value (True & False)
+· If else statement
+· Lab Session on if..else..
+· if..elif..else..fi statement
+· test command
+· Logical AND &&
+· Logical OR !!
+· The exit status of a command
+· Numeric Comparison
+· String Comparison
+· File Attributes Comparison
+· Shell Command line parameters
+· Positional parameters via special shell variable
+· Practice Lab Session
+
+Bash Loops
+· Overview of loop statement
+· for loop statement
+· Lab on for loop
+· for loop using C like Syntax
+· for loop using command-line arguments
+· Nested for loop statement
+· Chessboard using a nested loop statement
+· While loop statement
+· Lab Session - read a text file line-by-line or using IFS
+· infinite while loop
+· case statement
+· Lab session on case statement
+· Create a simple menu-driven program or automation tool Using Case Statement
+· Industrial Project
+· Discussed various scripts using for or while loop
+
+Shell Redirection & Process Management
+· Input Output Redirection in Linux
+· Lab Session on redirection
+· Pipelines in Linux
+· tee command
+· file descriptor (fd) to file for output
+· file descriptor (fd) to file for input
+· file descriptor (fd) for reading & writing
+· Practice Lab Session
+· Overview of a Process
+· Foreground & background Process
+· Various Stats of a process
+· Lab Session
+
+Functions
+· Defining functions
+· Displaying functions
+· Nested functions
+· Lab Session - writing functions
+· Calling functions
+· Local & global variables
+· Passing arguments into a function
+· return statement
+· Practice Lab Sessions
+
+AWK
+· Introduction Awk
+· Pattern matching
+· User-defined variables in awk
+· Awk pre-processing
+· Awk post-processing
+· Practice Lab Session
+
+SED Stream Editor
+· Introduction
+· Replacing or substituting string.
+· Replacing the nth occurrence of a pattern in a line
+· Replacing all the occurrence of the pattern in a line
+· Changing the slash (/) delimiter
+· Using & as the matched string
+· Duplicating the replaced line with /p flag
+· Replacing string on a specific line number
+· Replacing string on a range of lines
+· Replace on lines which match a pattern
+· Deleting lines
+· Add a line after a match
+· Add a line before a match
